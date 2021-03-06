@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+* 🌱 I’m currently learning *TypeScript* and *Testing*
+* 💬 Ask me about *CSS*, *JavaScript*, and *React.js*
+* 📫 How to reach me: maryam.rpour@gmail.com
+* 😄 Pronouns: *She/Her*
 <!--
 **maryamrmz/maryamrmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
