@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-# 💫 About Me:
+<!-- # 💫 About Me: -->
 
 <!-- * 🌱 I’m currently learning *NextJS* -->
-* 💬 Ask me about *CSS*, *JavaScript*, *React.js*, *TypeScript*, and *Testing*
+<!-- * 💬 Ask me about *CSS*, *JavaScript*, *React.js*, *TypeScript*, and *Testing*
 * 📫 How to reach me: maryam.rpour@gmail.com
-* 😄 Pronouns: *She/Her*
+* 😄 Pronouns: *She/Her* -->
 <!--
 **maryamrmz/maryamrmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
