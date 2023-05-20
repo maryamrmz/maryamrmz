@@ -6,8 +6,7 @@
 * 💬 Ask me about *CSS*, *JavaScript*, *React.js*, *TypeScript*, and *Testing*
 <!-- * 📫 How to reach me: maryam.rpour@gmail.com -->
 <!-- * 😄 Pronouns: *She/Her* --> -->
-<!--
-**maryamrmz/maryamrmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **maryamrmz/maryamrmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
