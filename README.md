@@ -2,7 +2,7 @@
 
 <!-- # 💫 About Me: -->
 
-!-- * 🌱 I’m currently learning *NextJS* -->
+<!-- * 🌱 I’m currently learning *NextJS* -->
 * 💬 Ask me about *CSS*, *JavaScript*, *React.js*, *TypeScript*, and *Testing*
 <!-- * 📫 How to reach me: maryam.rpour@gmail.com -->
 <!-- * 😄 Pronouns: *She/Her* -->
