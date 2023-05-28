@@ -4,6 +4,7 @@
 
 <!-- * 🌱 I’m currently learning *NextJS* -->
 * 💬 Ask me about *CSS*, *JavaScript*, *React.js*, *TypeScript*, and *Testing*
+* - ⚡ Fun fact: The literature & Music
 <!-- * 📫 How to reach me: maryam.rpour@gmail.com -->
 <!-- * 😄 Pronouns: *She/Her* -->
 <!-- **maryamrmz/maryamrmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
